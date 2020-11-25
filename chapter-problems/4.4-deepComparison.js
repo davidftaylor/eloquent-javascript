@@ -25,7 +25,7 @@ function deepEqual(value1, value2) {
 }
 
 // Book solution
-
+/*
 function deepEqual(a, b) {
   if (a === b) return true;
   
@@ -42,6 +42,7 @@ function deepEqual(a, b) {
 
   return true;
 }
+*/
 
 // Tests
 
